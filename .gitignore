@@ -1,0 +1,11 @@
+**/bin/
+**/obj/
+**/TestResults/
+.idea/
+.vs/
+*.user
+*.userprefs
+*.suo
+*.DotSettings.user
+*.sln.DotSettings.user
+.DS_Store
